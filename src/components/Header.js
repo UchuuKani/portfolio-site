@@ -28,7 +28,7 @@ const Header = () => {
 
       <div className="header-main">
         <div className="dev">
-          <h1>{data.site.siteMetadata.title}</h1>
+          <h1>{/*data.site.siteMetadata.title*/}Alex's Personal Site</h1>
           <span className="dot">•</span>
           <span className="attr">Software Engineer</span>
           <span className="dot">•</span>

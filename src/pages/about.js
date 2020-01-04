@@ -37,7 +37,7 @@ const About = props => {
           <div className={aboutStyle.texto}>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-map-marker-alt fa-sm"></i>
-              <p>Brooklyn, Ny, United States</p>
+              <p>Brooklyn, NY, United States</p>
             </div>
             <div className={aboutStyle.iconos}>
               <i className="fas fa-graduation-cap fa-sm"></i>
